@@ -1,0 +1,6 @@
+var tom = {
+	"name" : "Tom",
+	"Age": 28,
+	"Surname" : "Jackson"
+ 	"Date_of_Birth" : "16/05/90"
+}
