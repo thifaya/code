@@ -1,6 +1,11 @@
 var tom = {
 	"name" : "Tom",
 	"Age": 28,
-	"Surname" : "Jackson"
+	"Surname" : "Jackson",
  	"Date_of_Birth" : "16/05/90"
+	"race" : "White",
+	"Student" : true,
+	"Subjects":[{"name":"Math","Marks":45},
+		{"name":"physics","Marks":50},
+		{"name":"biology","Marks":76}] 
 }
