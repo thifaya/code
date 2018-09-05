@@ -1,7 +1,7 @@
 var tom = {
 	"name" : "Tom",
 	"Age": 28,
-	"Surname" : "Jackson",,
+	"Surname" : "Jackson",
 	"Student" : true,
 	"Subjects":[{"name":"Math","Marks":45,"Stats":"fail"},
 		{"name":"physics","Marks":50,"Stats":"Pass"}] 
